@@ -14,3 +14,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+.byebug_history
+node_modules/
+bundle.js
+bundle.js.map
+.DS_Store
+npm-debug.log
